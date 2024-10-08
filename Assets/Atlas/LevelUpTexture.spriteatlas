@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LevelUpTexture
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: fb8e657f5db2e40deb7af9869c846f42, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 2b88b810cdf5343f59452f57a1cb21da, type: 3}
+  - {fileID: 21300000, guid: e9b9d011ea2ac4fe8a41b976b594cfd0, type: 3}
+  - {fileID: 21300000, guid: 0522ed227bfef4a78ba17b52432fb261, type: 3}
+  - {fileID: 21300000, guid: c416a7d216c9744ddad145d2e53bc41b, type: 3}
+  - {fileID: 21300000, guid: 0b17640516fb54ea0ad7bc2e073eeea3, type: 3}
+  - {fileID: 21300000, guid: ca494385c6e774d938b0f69b95288cb1, type: 3}
+  - {fileID: 21300000, guid: 84c1caa6e551047cdb5aecccaf28ce40, type: 3}
+  - {fileID: 21300000, guid: d22e37d8972384a2b8915382b1e55995, type: 3}
+  - {fileID: 21300000, guid: 2771d5e87c4fd47c48f5cadde0bceed8, type: 3}
+  - {fileID: 21300000, guid: 539be839747e148efadcabba4c599358, type: 3}
+  - {fileID: 21300000, guid: 76263b9aae0c44a718626454117dab38, type: 3}
+  - {fileID: 21300000, guid: 6dd0cceae90f240a58fcc3e8622ecbc2, type: 3}
+  - {fileID: 21300000, guid: beed3b4b053824977911b36d225256e8, type: 3}
+  - {fileID: 21300000, guid: 2aa3658b0b67c4c6aa72ec4b234a28a4, type: 3}
+  - {fileID: 21300000, guid: 91a2c8cb407f74453ab8c982065720a5, type: 3}
+  - {fileID: 21300000, guid: 7d13412cac636441786d5435c1e16849, type: 3}
+  - {fileID: 21300000, guid: 10f6e0edf4fde4b079cd2dfd4f2b005a, type: 3}
+  - {fileID: 21300000, guid: 4e31d3fd2df944e9bb4c7e6b9927aeac, type: 3}
+  - {fileID: 21300000, guid: a1403cae1ae034e058baf903d4bf25f7, type: 3}
+  - {fileID: 21300000, guid: 069f1f5f07d1f4bd48adf6ced43e7330, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - RewardIcon
+  - BarImgSupport
+  - strapint
+  - StrapL
+  - BG_GamePlay
+  - Avatar_512_512
+  - Ref
+  - ReawrdContainer
+  - BtnTexture
+  - BSR
+  - BSL
+  - BarBar
+  - SuportTopText
+  - BaseBakground
+  - SuportR
+  - SuportCenter
+  - SuportBlwText
+  - DotTextture
+  - Strap
+  - StrapTitle
+  m_Tag: LevelUpTexture
+  m_IsVariant: 0
