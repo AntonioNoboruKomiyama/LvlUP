@@ -47,15 +47,19 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 7b7e9a07e2ed693489a338ae88eeb77e, type: 3}
   - {fileID: 21300000, guid: 925933378d6494e43ad23c5b7adfae50, type: 3}
   - {fileID: 21300000, guid: 0ab764e78322ecb4e84edca7ea3461cf, type: 3}
+  - {fileID: 21300000, guid: 2cd90238397504af39a1eded76ed777d, type: 3}
   - {fileID: 21300000, guid: d22e37d8972384a2b8915382b1e55995, type: 3}
   - {fileID: 21300000, guid: 2771d5e87c4fd47c48f5cadde0bceed8, type: 3}
   - {fileID: 21300000, guid: 539be839747e148efadcabba4c599358, type: 3}
   - {fileID: 21300000, guid: 76263b9aae0c44a718626454117dab38, type: 3}
   - {fileID: 21300000, guid: 6dd0cceae90f240a58fcc3e8622ecbc2, type: 3}
+  - {fileID: 21300000, guid: 7262b52b662c84ca0a6997ccb5c11362, type: 3}
   - {fileID: 21300000, guid: beed3b4b053824977911b36d225256e8, type: 3}
   - {fileID: 21300000, guid: 2aa3658b0b67c4c6aa72ec4b234a28a4, type: 3}
   - {fileID: 21300000, guid: 91a2c8cb407f74453ab8c982065720a5, type: 3}
   - {fileID: 21300000, guid: 7d13412cac636441786d5435c1e16849, type: 3}
+  - {fileID: 21300000, guid: 3c218d6c26451426989cedf2d89996d2, type: 3}
+  - {fileID: 21300000, guid: 7319b3cd50f5c49429c260976e1f95a5, type: 3}
   - {fileID: 21300000, guid: 534182dd589c8624f92ae8825989e168, type: 3}
   - {fileID: 21300000, guid: 10f6e0edf4fde4b079cd2dfd4f2b005a, type: 3}
   - {fileID: 21300000, guid: 4e31d3fd2df944e9bb4c7e6b9927aeac, type: 3}
@@ -75,15 +79,19 @@ SpriteAtlas:
   - B_02
   - B_01T
   - Chest_top
+  - Star
   - ReawrdContainer
   - BtnTexture
   - BSR
   - BSL
   - BarBar
+  - Smoke
   - SuportTopText
   - BaseBakground
   - SuportR
   - SuportCenter
+  - Group 15
+  - Shine
   - B_01
   - SuportBlwText
   - DotTextture
