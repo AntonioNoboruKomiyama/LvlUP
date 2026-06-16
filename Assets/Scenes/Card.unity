@@ -5058,6 +5058,7 @@ GameObject:
   m_Component:
   - component: {fileID: 77347808}
   - component: {fileID: 77347809}
+  - component: {fileID: 77347810}
   m_Layer: 5
   m_Name: CardTimeLine
   m_TagString: Untagged
@@ -5105,6 +5106,25 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!320 &77347810
+PlayableDirector:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 77347807}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_PlayableAsset: {fileID: 11400000, guid: 80a125744eb8b4fa7bb8e38b2644c08e, type: 2}
+  m_InitialState: 1
+  m_WrapMode: 2
+  m_DirectorUpdateMode: 1
+  m_InitialTime: 0
+  m_SceneBindings:
+  - key: {fileID: 423454010226552137, guid: 80a125744eb8b4fa7bb8e38b2644c08e, type: 2}
+    value: {fileID: 77347809}
+  m_ExposedReferences:
+    m_References: []
 --- !u!1 &77828220
 GameObject:
   m_ObjectHideFlags: 0
@@ -20332,7 +20352,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &501077080
 RectTransform:
   m_ObjectHideFlags: 0
@@ -25372,7 +25392,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &877101571
 RectTransform:
   m_ObjectHideFlags: 0
